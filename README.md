@@ -1,0 +1,1 @@
+# CATIA_V5_GetMinimumBox_Product
